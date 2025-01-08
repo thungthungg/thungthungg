@@ -1,23 +1,59 @@
 ![image](https://github.com/user-attachments/assets/e2039df2-1091-451e-8074-dd91b56dab5b)
-<h1 align="center">Hi 👋, I'm CHIA THUNG THUNG (^///^)</h1>
-<h3 align="center">You can call me THUNG THUNG ✪ ω ✪. I'm from NEGERI SEMBILAN but I came to JOHOR for study after my secondary school. Interesting right!🤣 Initially I was studied at KOLEJ MATRIKULASI KEJURUTERAAN JOHOR (KMKJ). I felt homesick very much ಥ_ಥ because all my family and friends are not around me🥲. So it became my biggest challenge rather than my studies. Finally, I found a way to against my problem, I decide to call my family everyday and we will share our daily life with each other ╰(*°▽°*)╯. It works until my matrikulasi graduated. And now, I came to UNIVERSITI TEKNOLOGI MALAYSIA (UTM) to study❤️. I'm currently learning COMPUTER SCIENCE - NETWORK AND SECURITY which is the subject I didn't learn before ༼ つ ◕_◕ ༽つ. Well, I think JOHOR has became my second hometown HAHAHA 💕.</h3>
+<h1 align="center">Hi everyone , Nice to meet you (^///^)</h1>
+<h4 align="left">"Hi, my name is Chia Thung Thung, you can call me thung thung.📍 I’m from Negeri Sembilan, Malaysia. I’m currently studying Network and Security at University Technology Malaysia.💻 I love eating, sleeping, and playing, and I’m passionate about learning new things 🔎and expanding my horizons. 🧩My goal is to gain knowledge and explore the world while enjoying life to the fullest."🌏.</h4>
+
+"Life is about balance🧘🏻‍♀️ — enjoying the little things while constantly learning and growing to explore the world and its possibilities."🔓
+```
+
+- 🔭 I’m interesting on swimming, playing, sleeping, traveling and eating (maybe studying also?)
+
+- 🌱 My learning state : I am learning while growing. Let's learn together ! Hi~ o(*￣▽￣*)ブ
+
+- 👯Fun fact : Hmmmm, I think I am lazy and funny person >"< 
+
+- 🤝 If you feel like I am interesting : Welcome to be a friend with me !!!
+
+- 👨‍💻 All of my projects are available at my profile and portfolio
+
+- 💬 Ask me about any questions you are interesting about me
+
+- 📫 How to reach me thungthung2005@gmailcom or 📞call me 010-5501216
+
+```
+
+<h2> 📚EDUCATION BACKGROUND : </h2>
 
 
-- 🔭 I’m interesting on **swimming, playing, sleeping and eating (maybe studying also?)** 
+2024:  University Technology Malaysia (UTM)
+  
+2023-2024:  Kolej Matrikulasi Kejuruteraan Johor (KMKJ) 
+  
+2018-2023:  SMJK CHAN WA 
+  
+2012-2017:  SJK(C) SIN HUA
 
-- 🌱 My learning state **I am learning while growing. Let's learn together  Hi~ o(*￣▽￣*)ブ**
 
-- 👯Fun fact **Hmmmm, I think I am lazy and funny person >"<**
+<h3>👾CERTIFICATE </h3>
 
-- 🤝 If you feel like I am interesting **Welcome to be a friend with me!!!** 
+| EXAM | RESULT |
+| ------------- | ------------- |
+| SPM | 7A   |
+| PSPM |4.0  |
+| MUET | 4.0   |
 
-- 👨‍💻 **All of my projects are available at my profile and portfolio**
+<h3>📍POSITION</h3>
 
-- 💬 Ask me about **any questions you are interesting about me**
+| Education Level | ACHIEVEMENT |
+| ------------- | ------------- |
+| Secondary School  | Secretary of Lembaga Penyelaras Gerakerja Murid-Murid  |
+| Secondary School | Secretary of Pembimbing Rakan Sebaya  |
+| Secondary School | Secretary of Taekwondo  |
+| Matriculation | Photographer of Cocurricular Activities  |
+| Matriculation  | Assistance Secretary of the Chinese community  |
+| UTM | Vice Team Leader of Pesta Tanglung  |
 
-- 📫 How to reach me **thungthung2005@gmailcom or call me 010-5501216**
 
-<h3 align="left"> THAT'S ALL ABOUT ME~ </h3>
+<h3 align="left"> THAT'S ALL ABOUT ME~💕 </h3>
 <p align="left">
 </p>
 
