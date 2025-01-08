@@ -4,13 +4,12 @@
 
 
 - 🔭 I’m interesting on **swimming, playing, sleeping and eating (maybe studying also?)** 
-   ![SoExcited~GIF](https://github.com/user-attachments/assets/0d0cf14f-0723-4ca5-8e27-b352baecc10b).
 
 - 🌱 My learning state **I am learning while growing. Let's learn together  Hi~ o(*￣▽￣*)ブ**
 
 - 👯Fun fact **Hmmmm, I think I am lazy and funny person >"<**
 
-- 🤝 If you feel like I am interesting **Welcome to be a friend with me!!!**     ![BubuDancingDanceGIF](https://github.com/user-attachments/assets/7a73e884-9628-4766-9d4f-c4fe9961c753)
+- 🤝 If you feel like I am interesting **Welcome to be a friend with me!!!** 
 
 - 👨‍💻 **All of my projects are available at my profile and portfolio**
 
