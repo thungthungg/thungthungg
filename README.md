@@ -27,7 +27,7 @@
 
 ```
 ## 🌐 Portfolio Website
-👉 https://github.com/thungthungg/my-website
+👉  https://thungthungg.github.io/my-website/
 
 ## 💻 Programming Languages
 <p>
